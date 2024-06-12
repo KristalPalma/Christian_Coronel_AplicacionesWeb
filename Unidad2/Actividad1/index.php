@@ -1,21 +1,18 @@
-<?php
-
-
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Presentacion</title>
+    <title>Welcome</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 </head>
+
 <body>
+<
 <div class="p1">
     <div class="back1">
-        
-
-
+        <a href="mostrar_libros_bd.php">Consultar Libros</a>
+        <a href="registrar_libros_bd.php">Registrar Libros</a>
     </div>
 </div>
 
@@ -44,6 +41,5 @@
         text-align: left;
     }
 </style>
-
 </body>
 </html>
